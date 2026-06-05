@@ -345,3 +345,4 @@ The last two should be **rejected by the guardrail layer** and display a flagged
 ---
 
 *NexusIQ is a professional-grade prototype application. It is designed for internal enterprise use and should be reviewed by your security and compliance team before production deployment.*
+*Note: Leveraged utilizing LLM - claude sonnet-4.6 that stood helpful in giving it developer centric production prototype coding approach for clean understanding around how Agentic architecture works.*
