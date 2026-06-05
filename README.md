@@ -1,4 +1,4 @@
-# 🔷 NexusIQ — Enterprise Policy Assistant
+# 🔷 NexusIQ — Enterprise Grade Multi Agent AI Policy Assistant
 
 > **A professional-grade, multi-agent AI application for enterprise HR, IT, and Finance policy queries.**
 
