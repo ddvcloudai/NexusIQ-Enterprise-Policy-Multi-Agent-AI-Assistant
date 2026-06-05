@@ -1,0 +1,43 @@
+FINANCE DEPARTMENT POLICIES
+============================
+
+EXPENSE MANAGEMENT AND REIMBURSEMENT
+1. All business expenses must be pre-approved by the employee's direct manager before being incurred.
+2. Expense reimbursement claims must be submitted within 30 days of the expense date; claims beyond this window will not be processed.
+3. Original receipts or digital invoices are mandatory for all reimbursements above INR 500 (or local currency equivalent).
+4. Employees must use the official expense management portal (expenses.company.com) to submit claims; paper submissions are not accepted.
+5. Travel expenses for domestic trips are subject to a per-diem allowance defined in the Travel Policy Matrix and reviewed annually.
+
+PROCUREMENT AND VENDOR MANAGEMENT
+6. Any purchase above INR 50,000 (or equivalent) requires a formal Purchase Order (PO) raised through the ERP system and approved by Finance.
+7. Vendor empanelment must follow the standard due diligence process, including legal and compliance review, before any contract is signed.
+8. Employees must not enter into verbal agreements or commit company funds without a signed contract and Finance approval.
+9. Competitive bids (minimum 3 vendors) are required for purchases above INR 1,00,000; single-vendor justification must be documented.
+10. All vendor invoices must be submitted to accounts@company.com within 5 business days of service delivery.
+
+BUDGET PLANNING AND CONTROL
+11. Annual budgets are planned in Q4 for the following financial year; department heads must submit budget proposals by November 30.
+12. Mid-year budget revisions require a formal request to Finance with justification and CFO approval.
+13. Departments must not overspend their approved budgets without written Finance authorization; unauthorized overspending is a policy violation.
+14. Monthly budget utilization reports are shared by Finance with all department heads by the 5th of each month.
+15. Surplus budget cannot be transferred between departments without CFO approval.
+
+FINANCIAL COMPLIANCE AND AUDIT
+16. All financial transactions must comply with applicable tax laws, accounting standards (e.g., IFRS/GAAP), and regulatory requirements.
+17. Employees must cooperate fully with internal and external audits; withholding financial information from auditors is a serious violation.
+18. Internal audits are conducted quarterly; findings are reported to the Audit Committee within 15 business days.
+19. Any suspected financial fraud, misappropriation, or irregularity must be reported immediately to the Finance Controller or via the anonymous whistleblower portal.
+20. Financial records must be retained for a minimum of 7 years in accordance with statutory requirements.
+
+PAYROLL AND SALARY ADMINISTRATION
+21. Salaries are disbursed on the last working day of each month directly to the employee's registered bank account.
+22. Any change in bank account details must be submitted to payroll@company.com at least 10 business days before the payroll processing date.
+23. Payslips are generated digitally and accessible via the employee self-service portal by the 1st of each month.
+24. Tax declarations (investments, deductions) must be submitted by January 15 each year to avoid excess TDS deductions.
+25. Loan or advance requests against salary are permissible up to a maximum of 2 months' gross salary and require Finance and HR approval.
+
+TRAVEL AND ACCOMMODATION
+26. Business travel must be booked through the approved corporate travel desk; personal bookings require prior Finance approval for reimbursement eligibility.
+27. Economy class travel is the standard for domestic trips; business class is permitted only for international trips above 6 hours with CFO approval.
+28. Hotel accommodation is covered up to the approved grade limit as per the Travel Policy Matrix; upgrades are at the employee's own expense.
+29. All travel advances must be settled within 7 days of return by submitting an expense report with receipts.
