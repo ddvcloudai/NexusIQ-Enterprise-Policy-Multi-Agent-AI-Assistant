@@ -2,7 +2,7 @@
 
 > **A professional-grade, multi-agent AI application for enterprise HR, IT, and Finance policy queries.**
 
-NexusIQ is a governed, secure, multi-agent application that allows company employees to instantly query organisational policies across three departments — Human Resources, Information Technology, and Finance — through a clean, professional web interface. Responses are grounded strictly in company policy documents, with no hallucination, and results can be downloaded as formatted PDF reports.
+NexusIQ is a governed, secure, multi-agent prototype application that allows company employees to instantly query organisational policies across three departments — Human Resources, Information Technology, and Finance — through a clean, professional web interface. Responses are grounded strictly in company policy documents, with no hallucination, and results can be downloaded as formatted PDF reports.
 
 ---
 
