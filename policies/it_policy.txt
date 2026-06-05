@@ -1,0 +1,41 @@
+INFORMATION TECHNOLOGY DEPARTMENT POLICIES
+==========================================
+
+DEVICE AND HARDWARE MANAGEMENT
+1. All employees are issued company devices (laptop/desktop) upon joining; personal devices must not be used for official work without IT approval.
+2. Company devices must not be used for personal activities, gaming, cryptocurrency mining, or accessing non-work-related streaming platforms.
+3. Lost or stolen devices must be reported to the IT helpdesk within 2 hours of discovery.
+4. Hardware upgrades or replacements must be requested through the IT portal and are subject to approval and budget availability.
+5. Devices must not be physically modified, and unauthorized peripherals (e.g., external GPUs) must not be connected.
+
+SOFTWARE AND LICENSING
+6. Only IT-approved software may be installed on company devices; installation of unauthorized software is a policy violation.
+7. All software licenses are managed centrally by IT; employees must not purchase or subscribe to software tools without an approved purchase request.
+8. Open-source tools may be used only after a security review and written approval from the IT Security team.
+9. Software subscriptions must be reviewed annually and renewed or terminated based on active usage.
+
+CYBERSECURITY AND DATA PROTECTION
+10. All employees must complete mandatory cybersecurity awareness training within 30 days of joining and annually thereafter.
+11. Passwords must be at least 12 characters long, include uppercase, lowercase, numbers, and special characters, and must not be reused within the last 10 cycles.
+12. Multi-Factor Authentication (MFA) is mandatory for all company systems, applications, and email.
+13. Employees must not click on suspicious links or attachments; phishing attempts must be reported to security@company.com immediately.
+14. Company data must not be stored on personal cloud storage (Google Drive personal, Dropbox personal, etc.).
+15. Sensitive data must be encrypted when shared externally using IT-approved encryption tools.
+
+NETWORK AND ACCESS CONTROL
+16. Employees must not connect to public Wi-Fi for official work without using the company-approved VPN.
+17. Access to internal systems is role-based; employees must not share credentials or attempt to access systems beyond their authorization level.
+18. VPN access is provisioned by IT upon manager request and reviewed every 6 months.
+19. Visitors and contractors must be granted only temporary, limited network access through the guest network.
+20. All remote access sessions are logged and monitored for compliance purposes.
+
+IT SUPPORT AND SERVICE REQUESTS
+21. IT support requests must be submitted through the official helpdesk portal (helpdesk.company.com) or by emailing it-support@company.com.
+22. Critical issues (e.g., system outage, security breach) must be reported by phone to the IT emergency line for priority response.
+23. Standard service requests are addressed within 2 business days; critical issues within 4 hours.
+24. Employees must not attempt to self-repair company hardware; all repairs are handled exclusively by authorized IT personnel.
+
+DATA BACKUP AND RECOVERY
+25. Employees must save all critical work to company-approved cloud storage (e.g., SharePoint, OneDrive for Business) to ensure automatic backup.
+26. IT conducts system-wide backups daily; individual file recovery requests must be submitted within 14 days of data loss.
+27. Business continuity and disaster recovery drills are conducted bi-annually; employee participation is mandatory.
